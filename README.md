@@ -10,7 +10,8 @@
 
 - Solution  step by step 
 
-- Every day GFG PODT Solution 
+- Every day GFG PODT Solution
+- 
 
 
 
