@@ -5,7 +5,7 @@
 
 
 
-# Today - 05 February 2024
+# Today - 06 February 2024
 
 
 - Solution  step by step 
