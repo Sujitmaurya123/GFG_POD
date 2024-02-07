@@ -5,7 +5,7 @@
 
 
 
-# Today - 06 February 2024
+
 
 
 - Solution  step by step 
@@ -45,4 +45,4 @@ We believe in the power of collaboration and greatly appreciate your interest in
 
 > Happy coding!
 
-![Visitors](https://shields.io/badge/dynamic/json?label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FSujitmaurya123%2Fyour-repository%2Fvisits%3Fstyle%3Dflat-square)
+
